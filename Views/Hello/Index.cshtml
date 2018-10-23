@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css"> -->
+    </head>
+    <body>
+        @{
+            string[] arr = {"six", "coconut", "eight", "nine"};
+            
+            foreach(var word in arr)
+            {
+                if (word.StartsWith("c"))
+                {
+                    <p style="color: red;">@word</p>
+                }
+                else
+                {
+                    <p>@word</p>
+                }
+                
+            }
+        }
+    </body>
+</html>

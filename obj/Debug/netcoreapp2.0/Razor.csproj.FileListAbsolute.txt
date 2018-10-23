@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/bin/Debug/netcoreapp2.0/Razor.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/bin/Debug/netcoreapp2.0/Razor.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/bin/Debug/netcoreapp2.0/Razor.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/bin/Debug/netcoreapp2.0/Razor.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/bin/Debug/netcoreapp2.0/Razor.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/obj/Debug/netcoreapp2.0/Razor.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/obj/Debug/netcoreapp2.0/Razor.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/obj/Debug/netcoreapp2.0/Razor.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/obj/Debug/netcoreapp2.0/Razor.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/obj/Debug/netcoreapp2.0/Razor.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Razor/obj/Debug/netcoreapp2.0/Razor.pdb
